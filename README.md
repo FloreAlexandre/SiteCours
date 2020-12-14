@@ -9,4 +9,4 @@ Ce site est destiné à servir d'une espèce de porte-folio et comporte donc :
 * Une séléction de document que j'ai produit
 * Un formulaire servant à recueillir des remarques sur le site
 
-Le projet a été réalisé en utilisant du *CSS* et du *HTML* ainsi qu'une petite quantité de *JavaScript* afin de réaliser __un bouton de changement de style__
+Le projet a été réalisé en utilisant du *CSS* afin de donner sa __"forme"__ et du *HTML* afin de donner le __"contenu"__ au site ainsi qu'une petite quantité de *JavaScript* afin de réaliser __un bouton de changement de style__
